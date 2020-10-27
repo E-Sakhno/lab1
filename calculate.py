@@ -7,5 +7,8 @@ try:
     divis=x/y
 except:
     divis='cannot be divided by zero'
-print(addit, subst)
-print(multi, divis)
+print("Result")
+print("addition:\t", addit)
+print("substaction:\t", subst)
+print("multiplication:\t", multi)
+print("division:\t", divis)
