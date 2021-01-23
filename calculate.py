@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 x=int(input("Input the first value: "))
 y=int(input("Input the second value: "))
 addit=x+y
